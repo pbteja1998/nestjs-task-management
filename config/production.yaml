@@ -1,0 +1,5 @@
+server:
+  origin: 'AWS_S3_ENDPOINT'
+
+db:
+  synchronize: false
